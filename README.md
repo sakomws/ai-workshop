@@ -5,17 +5,18 @@
 
 | Time              | Speaker               | Company          | Sessions                                               |
 |-------------------|-----------------------|------------------|--------------------------------------------------------|
-| **11:00 AM - 11:30 AM** | Sako M               | Gladly           | [Intro to workshop / Hackathon Building Blocks](sessions/session_1)       |
-| **11:30 AM - 12:00 PM** | Simon Farshid        | assistant-ui.com | [Human-in-the-loop Agents with assistant-ui](sessions/session_2)          |
-| **12:00 PM - 1:00 PM**  | -                    | -                | **Lunch**                                               |
-| **1:00 PM - 1:30 PM**   | Elvis Kahoro        | Reflex.dev       | [Solving the Python-Javascript Dilemma with Reflex](sessions/session_3)   |
-| **1:30 PM - 2:00 PM**   | Daniel Svonava      | Superlinked      | [Building E-commerce Recommendations with Vectors](sessions/session_4)    |
-| **2:00 PM - 2:30 PM**   | Adam Chan           | Weaviate         | [Get Chunked! Chunking Strategies for Retrieval](sessions/session_5)      |
-| **2:30 PM - 3:00 PM**   | Jose Menendez       | Groq             | [Low Latency on LLMs and Agent Workflows](sessions/session_6)             |
-| **3:00 PM - 3:30 PM**   | Sam Stowers         | W&B              | [Production-Ready GenAI Apps with Tracing & Evaluations](sessions/session_7) |
-| **3:30 PM - 4:00 PM**   | Luke Hollis         | Mused            | [Generating Interactive Environments for Synthetic Training Data](sessions/session_8) |
-| **4:00 PM - 4:30 PM**   | Huan Li             | Wechaty          | [Harnessing LLMs for Chatbot Development](sessions/session_9)             |
-| **4:30 PM - 5:00 PM**   | -                   | -                | **Wrap-up and Networking**                              |
+| **11:00 AM - 11:30 AM** | Sako M               | Gladly           | [Intro to workshop / Hackathon Building Blocks](sessions/01_intro_workshop)       |
+| **11:30 AM - 12:00 PM** | Simon Farshid        | assistant-ui.com | [Human-in-the-loop Agents with assistant-ui](sessions/02_human_in_the_loop)          |
+| **12:00 PM - 1:00 PM**  | **Lunch**                                               |
+| **1:00 PM - 1:30 PM**   | Elvis Kahoro        | Reflex.dev       | [Solving the Python-Javascript Dilemma with Reflex](sessions/03_python_js_dilemma)   |
+| **1:30 PM - 2:00 PM**   | Daniel Svonava      | Superlinked      | [Building E-commerce Recommendations with Vectors](sessions/04_ecommerce_vectors)    |
+| **2:00 PM - 2:30 PM**   | Adam Chan           | Weaviate         | [Get Chunked! Chunking Strategies for Retrieval](sessions/05_chunking_strategies)      |
+| **2:30 PM - 3:00 PM**   | Jose Menendez       | Groq             | [Low Latency on LLMs and Agent Workflows](sessions/06_low_latency_llms)             |
+| **3:00 PM - 3:30 PM**   | Sam Stowers         | W&B              | [Production-Ready GenAI Apps with Tracing & Evaluations](sessions/07_production_genai) |
+| **3:30 PM - 4:00 PM**   | Luke Hollis         | Mused            | [Generating Interactive Environments for Synthetic Training Data](sessions/08_interactive_envs) |
+| **4:00 PM - 4:30 PM**   | Huan Li             | Wechaty          | [Harnessing LLMs for Chatbot Development](sessions/09_chatbot_llms)             |
+| **4:30 PM - 5:00 PM**   | **Wrap-up and Networking**                                    |
+
 
 
 # Sessions
