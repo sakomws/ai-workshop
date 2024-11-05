@@ -2,21 +2,21 @@
 
 # DevFest AI Workshop Schedule
 
-| Time          | Speaker Name & LinkedIn                     | Topic Name                                   |
-|---------------|----------------------------------------------|----------------------------------------------|
-| 10:55 AM-11:30 AM | [Sako M]() | Workshop Intro                   | 
-| 11:30 AM-12:00 PM | [Simon F]() | UI/UX               |
-| 12:00 PM-1:00 PM | -                                        | Lunch Break                                  |
-| 1:00 PM-1:30 PM | [Adam]() | Vector DBs                   |
-| 1:40 PM-2:20 PM | [Alex R]() |  Agentops   |
-| 2:20 PM-3:00 PM | [Luke]() | 3d gaming     |
-| 3:00 PM-3:20 PM | -                                        | Coffee Break                                 |
-| 3:20 PM-4:00 PM | [Elvis]) |             |
-| 4:00 PM-4:40 PM | []() |             |
-| 4:40 PM-5:00 PM | []() | Closing Remarks & Next Steps                |
+| Time             | Speaker Name & LinkedIn                               | Topic Name                                                       |
+|------------------|-------------------------------------------------------|------------------------------------------------------------------|
+| 10:55 AM-11:30 AM | [Sako M]()                                           | Workshop Intro / Building blocks for hackathons                  |
+| 11:30 AM-12:00 PM | [Simon Farshid](https://linkedin.com/in/simon-farshid) | Human-in-the-loop agents with assistant-ui                       |
+| 12:00 PM-1:00 PM  | -                                                    | Lunch Break                                                      |
+| 1:00 PM-1:30 PM   | [Elvis Kahoro](https://linkedin.com/in/elvis-kahoro)  | Solving the Python-Javascript dilemma with Reflex                |
+| 1:40 PM-2:20 PM   | [Daniel Svonava](https://linkedin.com/in/daniel-svonava) | Build e-commerce recommendations, search, and analytics with vectors |
+| 2:20 PM-3:00 PM   | [Adam Chan](https://linkedin.com/in/adam-chan)        | Get Chunked! (chunking strategies for retrieval applications)    |
+| 3:00 PM-3:20 PM   | -                                                    | Coffee Break                                                     |
+| 3:20 PM-4:00 PM   | [Jose Menendez](https://linkedin.com/in/jose-menendez) | Low latency on LLMs allow for some fun agentic workflows!       |
+| 4:00 PM-4:40 PM   | [Sam Stowers](https://linkedin.com/in/sam-stowers)     | Make Your GenAI App Production-Ready with Tracing & Evaluations  |
+| 4:40 PM-5:20 PM   | [Luke Hollis](https://linkedin.com/in/luke-hollis)     | Generating Interactive Environments for Synthetic Training Data  |
+| 5:20 PM-5:40 PM   | [Huan Li](https://linkedin.com/in/huan-li)            | Harnessing LLM to Power Chatbot Development                      |
+| 5:40 PM-6:00 PM   | -                                                    | Closing Remarks & Next Steps                                     |
 
-
-# AI Workshop Agenda
 
 # AI Workshop Agenda
 
