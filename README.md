@@ -1,6 +1,7 @@
 # DevFest AI Workshop
 
-# DevFest AI Workshop Schedule
+
+# AI Workshop Agenda
 
 | Time              | Speaker               | Company          | Topic                                               |
 |-------------------|-----------------------|------------------|-----------------------------------------------------|
@@ -17,7 +18,7 @@
 | **4:30 PM - 5:00 PM**   |                                Wrap-up and Networking                              |
 
 
-# AI Workshop Agenda
+# Sessions
 
 ### Name: Sako M
 - **Company**: Gladly
