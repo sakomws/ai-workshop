@@ -4,16 +4,16 @@
 
 | Time              | Speaker               | Company          | Topic                                               |
 |-------------------|-----------------------|------------------|-----------------------------------------------------|
-| **10:55 AM - 11:30 AM** | Sako M               | Gladly           | Intro to workshop / Hackathon Building Blocks       |
+| **11:00 AM - 11:30 AM** | Sako M               | Gladly           | Intro to workshop / Hackathon Building Blocks       |
 | **11:30 AM - 12:00 PM** | Simon Farshid        | assistant-ui.com | Human-in-the-loop Agents with assistant-ui          |
 | **12:00 PM - 1:00 PM**  |                                      Lunch                                               |
 | **1:00 PM - 1:30 PM**   | Elvis Kahoro        | Reflex.dev       | Solving the Python-Javascript Dilemma with Reflex   |
-| **1:30 PM - 1:55 PM**   | Daniel Svonava      | Superlinked      | Building E-commerce Recommendations with Vectors    |
-| **2:00 PM - 2:25 PM**   | Adam Chan           | Weaviate         | Get Chunked! Chunking Strategies for Retrieval      |
-| **2:30 PM - 2:50 PM**   | Jose Menendez       | Groq             | Low Latency on LLMs and Agent Workflows             |
-| **3:00 PM - 3:20 PM**   | Sam Stowers         | W&B              | Production-Ready GenAI Apps with Tracing & Evaluations |
-| **3:20 PM - 4:00 PM**   | Luke Hollis         | Mused            | Generating Interactive Environments for Synthetic Training Data |
-| **4:00 PM - 4:40 PM**   | Huan Li             | Wechaty          | Harnessing LLMs for Chatbot Development             |
+| **1:30 PM - 2:00 PM**   | Daniel Svonava      | Superlinked      | Building E-commerce Recommendations with Vectors    |
+| **2:00 PM - 2:30 PM**   | Adam Chan           | Weaviate         | Get Chunked! Chunking Strategies for Retrieval      |
+| **2:30 PM - 3:00 PM**   | Jose Menendez       | Groq             | Low Latency on LLMs and Agent Workflows             |
+| **3:00 PM - 3:30 PM**   | Sam Stowers         | W&B              | Production-Ready GenAI Apps with Tracing & Evaluations |
+| **3:30 PM - 4:00 PM**   | Luke Hollis         | Mused            | Generating Interactive Environments for Synthetic Training Data |
+| **4:00 PM - 4:30 PM**   | Huan Li             | Wechaty          | Harnessing LLMs for Chatbot Development             |
 | **4:40 PM - 5:00 PM**   |                                Wrap-up and Networking                              |
 
 
