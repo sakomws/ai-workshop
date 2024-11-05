@@ -1,15 +1,98 @@
-# DevFest AI Workshop
+
+# Session Title: Human-in-the-loop Agents with assistant-ui
+
+Welcome to the **Human-in-the-loop Agents with assistant-ui** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
 
 ---
 
-### Name: Simon Farshid
-- **Company**: assistant-ui.com
-- **Bio**: Simon Farshid is the founder of assistant-ui.com, a rapidly rising open-source React component library for AI chat. The company focuses on advancing human-machine interaction by enabling developers to integrate AI agents into their apps. With 18,000+ monthly downloads and a partnership with LangChain, assistant-ui is a growing name in the AI developer community. Before moving to the US, Simon co-founded READO, a social app for book readers with 100,000+ monthly active users.
+## Session Overview
 
-#### Session
-- **Title**: Human-in-the-loop agents with assistant-ui
-- **Description**: Learn about the different patterns to incorporate human feedback in your AI agents. We will go through a hands-on live coding session to build an interactive AI agent using assistant-ui, an open-source React component library for chat interfaces.
-  - Understanding Human-in-the-Loop: An overview of why human feedback is essential in AI development and how it can be systematically incorporated, including Generative UI, approvals, and more.
-  - Design Patterns: Learn about the right UX patterns for human input.
-  - Building with assistant-ui: Step-by-step guidance on using assistant-ui to develop interactive agents.
+**Instructor:** [Instructor Name]
 
+**Duration:** [Duration, e.g., 30 minutes]
+
+**Objective:**  
+- [Objective 1: Describe what participants will learn or accomplish in this session]
+- [Objective 2: Highlight any practical applications or outcomes]
+  
+By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+
+---
+
+## Prerequisites
+
+- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
+- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
+
+---
+
+## Agenda
+
+1. **Introduction**  
+   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+
+2. **Hands-on Activity**  
+   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+
+3. **Q&A and Discussion**  
+   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+
+---
+
+## Instructions
+
+### Step 1: Clone the Workshop Repository
+If you haven't cloned the repository already, run:
+```bash
+git clone https://github.com/[your-username]/devfest-ai-workshop.git
+cd devfest-ai-workshop/sessions/session_2
+```
+
+### Step 2: Set Up Environment
+- Activate your environment (if using Conda):
+  ```bash
+  conda activate workshop_env
+  ```
+- Install any necessary dependencies:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### Step 3: Open the Jupyter Notebook
+Navigate to the Jupyter notebook for this session:
+1. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+2. Open the file `session_2.ipynb`.
+
+### Step 4: Complete the Hands-on Exercise
+Follow the instructions in the notebook for each part of the exercise:
+
+- **Exercise 1:** [Brief description, e.g., “Load and preprocess data for building a chatbot.”]
+- **Exercise 2:** [Brief description, e.g., “Use assistant-ui to add human feedback capabilities.”]
+- **Exercise 3:** [Brief description, e.g., “Evaluate chatbot performance with human-in-the-loop inputs.”]
+
+---
+
+## Additional Resources
+
+- **Documentation:**  
+  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
+  
+- **Further Reading:**  
+  - [List of related papers, articles, or links]
+
+---
+
+## Solutions
+
+If you need help with any part of the session, refer to the [solution file](../solutions/session_2_solution.ipynb) in the `solutions` folder.
+
+---
+
+## Contact
+
+If you have questions during the workshop, please reach out to **[Instructor’s Name]** or open an issue in the repository.
+
+Happy coding!

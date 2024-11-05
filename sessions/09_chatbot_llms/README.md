@@ -1,12 +1,98 @@
-# DevFest AI Workshop
 
-### Name: Huan Li
-- **Company**: Chatie
-- **Bio**: Huan Li is an accomplished technologist and innovator at the intersection of artificial intelligence and real-world applications. 
+# Session Title: Harnessing LLMs for Chatbot Development
 
-#### Session
-- **Title**: Harnessing LLM to Power Chatbot Development with Code-generation and Doc-explanation
-- **Description**: Conversational AI has empowered Chatbot applications in recent years, making the Conversational User Interface (CUI) increasingly valuable.
-  - Learn what Wechaty SDK can do
-  - Design your requirement for automating your WhatsApp personal account
-  - Generate source code by prompting your requirement in natural language to LLM
+Welcome to the **Harnessing LLMs for Chatbot Development** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
+
+---
+
+## Session Overview
+
+**Instructor:** [Instructor Name]
+
+**Duration:** [Duration, e.g., 30 minutes]
+
+**Objective:**  
+- [Objective 1: Describe what participants will learn or accomplish in this session]
+- [Objective 2: Highlight any practical applications or outcomes]
+  
+By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+
+---
+
+## Prerequisites
+
+- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
+- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
+
+---
+
+## Agenda
+
+1. **Introduction**  
+   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+
+2. **Hands-on Activity**  
+   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+
+3. **Q&A and Discussion**  
+   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+
+---
+
+## Instructions
+
+### Step 1: Clone the Workshop Repository
+If you haven't cloned the repository already, run:
+```bash
+git clone https://github.com/[your-username]/devfest-ai-workshop.git
+cd devfest-ai-workshop/sessions/session_9
+```
+
+### Step 2: Set Up Environment
+- Activate your environment (if using Conda):
+  ```bash
+  conda activate workshop_env
+  ```
+- Install any necessary dependencies:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### Step 3: Open the Jupyter Notebook
+Navigate to the Jupyter notebook for this session:
+1. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+2. Open the file `session_9.ipynb`.
+
+### Step 4: Complete the Hands-on Exercise
+Follow the instructions in the notebook for each part of the exercise:
+
+- **Exercise 1:** [Brief description, e.g., “Load and preprocess data for building a chatbot.”]
+- **Exercise 2:** [Brief description, e.g., “Use assistant-ui to add human feedback capabilities.”]
+- **Exercise 3:** [Brief description, e.g., “Evaluate chatbot performance with human-in-the-loop inputs.”]
+
+---
+
+## Additional Resources
+
+- **Documentation:**  
+  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
+  
+- **Further Reading:**  
+  - [List of related papers, articles, or links]
+
+---
+
+## Solutions
+
+If you need help with any part of the session, refer to the [solution file](../solutions/session_9_solution.ipynb) in the `solutions` folder.
+
+---
+
+## Contact
+
+If you have questions during the workshop, please reach out to **[Instructor’s Name]** or open an issue in the repository.
+
+Happy coding!
