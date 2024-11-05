@@ -15,7 +15,7 @@
 | **3:00 PM - 3:30 PM**   | Sam Stowers         | W&B              | [Production-Ready GenAI Apps with Tracing & Evaluations](sessions/07_production_genai) |
 | **3:30 PM - 4:00 PM**   | Luke Hollis         | Mused            | [Generating Interactive Environments for Synthetic Training Data](sessions/08_interactive_envs) |
 | **4:00 PM - 4:30 PM**   | Huan Li             | Wechaty          | [Harnessing LLMs for Chatbot Development](sessions/09_chatbot_llms)             |
-| **4:30 PM - 5:00 PM**   | **Wrap-up and Networking**                                    |
+| **4:30 PM - 5:00 PM**   | **Wrap-up and Networking**                                                         |
 
 
 
