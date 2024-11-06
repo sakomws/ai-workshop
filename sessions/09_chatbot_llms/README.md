@@ -1,41 +1,43 @@
 
 # Session Title: Harnessing LLMs for Chatbot Development
 
-Welcome to the **Harnessing LLMs for Chatbot Development** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
+Welcome to the **Harnessing LLMs for Chatbot Development** session of the DevFest AI Workshop! This session will guide you through code generation with the [Wechaty](https://github.com/wechaty/wechaty) open-source SDK for building your first WhatsApp chatbot to automate your personal account actions (receive/send messages, group activities, etc.).
 
 ---
 
 ## Session Overview
 
-**Instructor:** [Instructor Name]
+**Instructor:** [Huan Li](https://www.linkedin.com/in/huan42/)
 
-**Duration:** [Duration, e.g., 30 minutes]
+**Duration:** 30 minutes
 
 **Objective:**  
-- [Objective 1: Describe what participants will learn or accomplish in this session]
-- [Objective 2: Highlight any practical applications or outcomes]
-  
-By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+- Run your first ding-dong bot with your WhatsApp personal account without coding by yourself
+- Brainstorming a WhatsApp group game and then making it work without coding by yourself
+
+By the end of this session, you will have a deeper understanding of code generation with LLM.
 
 ---
 
 ## Prerequisites
 
-- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
-- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
+- A WhatsApp account (your personal account is good)
+- Basic knowledge of how to talk with LLM
 
 ---
 
 ## Agenda
 
 1. **Introduction**  
-   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+   - Overview of Wechaty concepts
+   - Overview of LLM code generation task
 
 2. **Hands-on Activity**  
-   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+   - Building a ding-dong bot without coding by yourself
+   - Brainstorming a WhatsApp group game and then making it work without coding by yourself
 
 3. **Q&A and Discussion**  
-   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+   - AMA
 
 ---
 
