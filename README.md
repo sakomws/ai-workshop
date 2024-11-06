@@ -28,10 +28,10 @@
 
 #### Session
 - **Title**: Intro to workshop / Building blocks for hackathons
-- 
-* Setting up local environment for speed
-* Using aiproxy to handle proxy traffic
-* Apply PlatformGen - Autonomous Dependency Manager
+- **Description**: You’ll learn how to set up a high-performance local environment, use 'aiproxy' for efficient proxy traffic management, and automate dependency updates with PlatformGen.
+  - Setting up local environment for speed
+  - Leveraging aiproxy to handle proxy traffic
+  - Apply PlatformGen - Autonomous Dependency Manager
   
 
 ---
