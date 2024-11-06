@@ -24,14 +24,15 @@
 
 ### Name: Sako M
 - **Company**: Gladly
-- **Bio**: 
+- **Bio**: Sako attended 40+ hackathons in just 9 months, will be setting the stage by diving into Hackathon Building Blocks and showing how to set yourself up for hackathon success! From ideation to execution, learn the strategies that make ideas fly! 
 
 #### Session
 - **Title**: Intro to workshop / Building blocks for hackathons
 - 
-* Topic 1
-* Topic 2
-* Topic 3
+* Setting up local environment for speed
+* Using aiproxy to handle proxy traffic
+* Apply PlatformGen - Autonomous Dependency Manager
+  
 
 ---
 
