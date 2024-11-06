@@ -14,7 +14,7 @@
 | **2:30 PM - 3:00 PM**   | [Jose Menendez](https://www.linkedin.com/in/menendezp) | [Groq](https://groq.com)             | [Low Latency on LLMs and Agent Workflows](sessions/06_low_latency_llms)             |
 | **3:00 PM - 3:30 PM**   | [Sam Stowers](https://www.linkedin.com/in/samuelstowers) | [Weights & Biases](https://wandb.ai)              | [Production-Ready GenAI Apps with Tracing & Evaluations](sessions/07_production_genai) |
 | **3:30 PM - 4:00 PM**   | [Luke Hollis](https://www.linkedin.com/in/luke-hollis) | [Mused](https://mused.com)            | [Generating Interactive Environments for Synthetic Training Data](sessions/08_interactive_envs) |
-| **4:00 PM - 4:30 PM**   | [Huan Li](https://www.linkedin.com/in/huan42) | [Wechaty](https://chatie.io)          | [Harnessing LLMs for Chatbot Development](sessions/09_chatbot_llms)             |
+| **4:00 PM - 4:30 PM**   | [Huan Li](https://www.linkedin.com/in/huan42) | [Chatie](https://chatie.io)          | [Harnessing LLMs for Chatbot Development](sessions/09_chatbot_llms)             |
 | **4:30 PM - 5:00 PM**   |  **Wrap-up and Networking**                              |
 
 
