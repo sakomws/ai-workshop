@@ -8,7 +8,7 @@
 | **11:00 AM - 11:30 AM** | [Sako M](https://www.linkedin.com/in/sakom) | [Gladly](https://www.gladly.com)           | [Intro to workshop / Hackathon Building Blocks](sessions/01_intro_workshop)       |
 | **11:30 AM - 12:00 PM** | [Simon Farshid](https://www.linkedin.com/in/simon-farshid) | [assistant-ui.com](https://assistant-ui.com) | [Human-in-the-loop Agents with assistant-ui](sessions/02_human_in_the_loop)          |
 | **12:00 PM - 1:00 PM**  |  **Lunch**                                               |
-| **1:00 PM - 1:30 PM**   | [Elvis Kahoro](https://www.linkedin.com/in/elviskahoro) | [Reflex.dev](https://reflex.dev)       | [Solving the Python-Javascript Dilemma with Reflex](sessions/03_python_js_dilemma)   |
+| **1:00 PM - 1:30 PM**   |  |
 | **1:30 PM - 2:00 PM**   | [Daniel Svonava](https://www.linkedin.com/in/svonava) | [Superlinked](https://superlinked.com)      | [Building E-commerce Recommendations with Vectors](sessions/04_ecommerce_vectors)    |
 | **2:00 PM - 2:30 PM**   | [Adam Chan](https://www.linkedin.com/in/itsajchan)  | [Weaviate](https://weaviate.io)         | [Get Chunked! Chunking Strategies for Retrieval](sessions/05_chunking_strategies)      |
 | **2:30 PM - 3:00 PM**   | [Jose Menendez](https://www.linkedin.com/in/menendezp) | [Groq](https://groq.com)             | [Low Latency on LLMs and Agent Workflows](sessions/06_low_latency_llms)             |
@@ -49,15 +49,7 @@
 
 ---
 
-### Name: Elvis Kahoro
-- **Company**: Reflex.dev
 
-#### Session
-- **Title**: Solving the Python-Javascript dilemma with Reflex--a modern OSS Python web framework
-- **Description**: Reflex is an open-source (Apache 2.0 & 20k+ GitHub stars) framework empowering Python developers to build internal (data, AI, and web) apps faster - with no JavaScript required. Build both your frontend and backend in a single language, Python. (pip install reflex). In this workshop, we'll go over how to set up Reflex and start building a dashboard app.
-  - Topic 1
-  - Topic 2
-  - Topic 3
 
 ---
 
