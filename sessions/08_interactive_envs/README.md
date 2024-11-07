@@ -1,6 +1,6 @@
 # Session Title: Generating Interactive Environments: 
 
-This session will guide you through exploring world models and their applications in gaming and robotics environments, focusing on recent breakthrough papers and hands-on experiments.
+This session will give an overview of world models and then look at a few recent papers and implementations to discuss why they're important for gaming and creating generalist agents.
 
 ---
 
@@ -13,7 +13,7 @@ This session will guide you through exploring world models and their application
 **Objective:**  
 - Understand world models and their importance in gaming and generalist agents
 - Play Atari with Diamond: Run a diffusion world model implementation on your local machine
-- Reproduce Genie: Follow along with steps to reproduce a foundation world model and how generaliable actions can be learned from unlabeled videos
+- Reproducing Genie: Follow along with steps to reproduce concepts from the Genie paper from the Google DeepMind team, creating a foundation world model, and learn how generalizable actions can be learned from unlabeled videos
 - Play Minecraft in Oasis: See how one startup is using world models to generate Minecraft levels
   
 By the end of this session, you will have a deeper understanding of world models and their practical applications in gaming and interactive environments.
@@ -32,18 +32,17 @@ By the end of this session, you will have a deeper understanding of world models
 
 1. **Introduction to World Models**  
    - Overview of world models and their importance
-   - Recent breakthroughs: Genie, Diamond, Dreamer V3, and Oasis
+   - Some recent papers: Genie, Diamond, GameNGen, Oasis
    - Key architectural components and considerations
 
 2. **Hands-on Activities**  
    - Challenge 1: Running a diffusion world model to simulate Atari games with Diamond
-   - Challenge 2: Follow along with Genie reproducibility steps, training a model to generalize actions from unlabeled videos
+   - Challenge 2: Follow along with Genie reproducibility steps, training a foundation world model to generalize actions from unlabeled videos
    - Challenge 3: Explore a Minecraft world model on Oasis 
 
 3. **Q&A and Discussion**  
-   - Open discussion on world model architectures
-   - Future applications and limitations
-   - Implementation considerations
+   - Discussion on world model architectures and how they can be used in the future
+   - Other questions
 
 ---
 
