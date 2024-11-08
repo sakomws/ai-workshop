@@ -68,20 +68,13 @@ Following the docs of CrewAI, use configurations to build a workflows that:
 
 - **Documentation:**  
   - [Groq docs](https://console.groq.com/docs/overview)
-  
-- **Further Reading:**  
-  - NA
+  - [CrewAI docs](https://docs.crewai.com/)
 
----
-
-## Solutions
-
-- NA
 
 ---
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **[Jose Menendez]** or open an issue in the repository with label 6_groq.
+If you have questions during the workshop, please reach out to **[Jose Menendez](https://www.linkedin.com/in/menendezp/)** or open an issue in the repository with label 6_groq.
 
 Happy coding!
