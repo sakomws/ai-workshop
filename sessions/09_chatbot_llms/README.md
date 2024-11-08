@@ -20,6 +20,7 @@ By the end of this session, you will have a deeper understanding of code generat
 
 **Sildes:** [Harnessing LLMs for Chatbot Development](https://docs.google.com/presentation/d/1psgspkznmQCGoqYrYGZ7602xkcwsfPYC4niNX44mFSc/edit?usp=sharing)
 
+[![Harnessing LLM for Chatbot Development with Wechaty - Huan, DevFest Mountain View, Nov 2024](./Harnessing%20LLM%20for%20Chatbot%20Development%20with%20Wechaty%20-%20Huan,%20DevFest%20Mountain%20View,%20Nov%202024.jpg)](https://docs.google.com/presentation/d/1psgspkznmQCGoqYrYGZ7602xkcwsfPYC4niNX44mFSc/edit?usp=sharing)
 ---
 
 ## Prerequisites
