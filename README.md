@@ -48,8 +48,17 @@
   - Building with assistant-ui: Step-by-step guidance on using assistant-ui to develop interactive agents.
 
 ---
+### Name: Ron
+- **Company**: Flox
+- **Bio**: Ron is CEO of Flox, repeat founder, former head of Meta's Facebook Developer Infra Products teams, and current board member of the NixOS Foundation, where he supports and strengthens the NixOS community.
 
-
+#### Session
+- **Title**: Getting started with Flox
+- **Description**: Nix Simplified for Enterprise: Flox brings the power of Nix to enterprise workflows, using an intuitive interface familiar to engineers with experience in tools like Homebrew, Git, and npm.
+- Adding elements similar to Docker Compose (minus the containers and Linux VM), Flox becomes a streamlined system package manager.
+Project-Centric Package Management:
+- Flox is designed as a cross-platform package manager (similar to apt, brew, yum, dnf) but is decoupled from specific machines. It’s tied instead to projects and team workflows, enabling consistency across operating systems and architectures.
+- Enhanced Catalog Service: Flox offers a catalog service that provides metadata on Nix packages (nixpkgs), like version history for NodeJS, Go, MySQL, and more, allowing for seamless installation of older software versions as needed.
 
 ---
 
