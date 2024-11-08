@@ -1,0 +1,15 @@
+
+code_task:
+  description: >
+    Create code to implement {topic}
+  expected_output: >
+    A python code that implements {code_task}
+    Your Final answer must be the full python code, only the python code and nothing else.
+  agent: coder
+
+code_execution_task:
+  description: >
+    Execute the code created by the coder.
+  expected_output: >
+    The output of the code execution.
+  agent: code_executer
