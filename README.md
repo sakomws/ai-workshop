@@ -48,7 +48,7 @@
   - Building with assistant-ui: Step-by-step guidance on using assistant-ui to develop interactive agents.
 
 ---
-### Name: Ron
+### Name: Ron Efroni
 - **Company**: Flox
 - **Bio**: Ron is CEO of Flox, repeat founder, former head of Meta's Facebook Developer Infra Products teams, and current board member of the NixOS Foundation, where he supports and strengthens the NixOS community.
 
