@@ -48,17 +48,23 @@
   - Building with assistant-ui: Step-by-step guidance on using assistant-ui to develop interactive agents.
 
 ---
-### Name: Ron Efroni
+### Name: Ron Efroni && Tom Bereknyei
 - **Company**: Flox
-- **Bio**: Ron is CEO of Flox, repeat founder, former head of Meta's Facebook Developer Infra Products teams, and current board member of the NixOS Foundation, where he supports and strengthens the NixOS community.
+- **Ron's Bio**: Ron is CEO of Flox, repeat founder, former head of Meta's Facebook Developer Infra Products teams, and current board member of the NixOS Foundation, where he supports and strengthens the NixOS community.
+- **Tom's Bio**: Worked at Google, flew jet planes in the Marine Corps, trained cyber-teams, worked with the Digital Service to bring modern software practices to the DoD, then created a contracting startup bringing AI/ML products to DoD. Throughout have found a consistent set of challenges and a set of superpowers using Nix. This led to the desire to bring these superpowers to the rest of the world; hence contributing to Nix as a maintainer and founding Flox.
 
 #### Session
-- **Title**: Getting started with Flox
-- **Description**: Nix Simplified for Enterprise: Flox brings the power of Nix to enterprise workflows, using an intuitive interface familiar to engineers with experience in tools like Homebrew, Git, and npm.
-- Adding elements similar to Docker Compose (minus the containers and Linux VM), Flox becomes a streamlined system package manager.
-Project-Centric Package Management:
-- Flox is designed as a cross-platform package manager (similar to apt, brew, yum, dnf) but is decoupled from specific machines. It’s tied instead to projects and team workflows, enabling consistency across operating systems and architectures.
-- Enhanced Catalog Service: Flox offers a catalog service that provides metadata on Nix packages (nixpkgs), like version history for NodeJS, Go, MySQL, and more, allowing for seamless installation of older software versions as needed.
+- **Title**: Flox: Rethinking How We Build & Collab
+- **Description**: In this session, we'll introduce you to [Flox](https://flox.dev).
+  Flox is an open-source (GPL2) tool for simple and powerful system dependency mangement,
+  per-project, and decoupled from your machine.  
+  Underneath, we are using [Nix](https://nixos.org) which gives us access to 
+  [over 100,000 packages](https://search.nixos.org/packages).  
+  Many of these packages are cross-platform and built natively for your machine
+  whether you are using a Macbook or a Linux server in Google Cloud.
+  Flox is designed to be simple to teach to your teammates so you can immediately
+  be productive together without taking much time to learn Nix concepts.
+  We'll start with the basics and try some Local AI development.
 
 ---
 
