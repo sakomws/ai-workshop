@@ -120,7 +120,8 @@ GROQ_API_KEY=x
 - [Groq]()
 - [FastAPI]()
 - [NexJS]()
-- [Cloudflare AI Gateway]()
+- [Cloudflare AI Gateway](https://www.cloudflare.com/)
+- [Hackathon Playbook](https://www.magcloud.com/browse/issue/2908303)
 ---
 
 ## Contact
