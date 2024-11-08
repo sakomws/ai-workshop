@@ -78,6 +78,11 @@ git checkout csgo
 python src/play.py
 ```
 
+If this doesn't work, you can also play CSGO with Diamond on FAL: 
+
+[Play CSGO with Diamond on FAL](https://fal.ai/demos/csgo)
+
+
 ## Challenge 2: Follow along with Genie reproducibility steps, training a model to generalize actions from unlabeled videos
 
 
