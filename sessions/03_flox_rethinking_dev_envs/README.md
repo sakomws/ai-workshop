@@ -383,6 +383,9 @@ your $HOME workflow, your team, and your projects -- thanks!
   - https://flox.dev/docs
   - https://nixos.org/guides/how-nix-works/
 
+- **Demo Repo**:
+  - https://github.com/stealthybox/verba-with-flox
+
 - **Further Reading:**  
   - https://flox.dev/blog
   - https://flox.dev/blog/get-a-portable-turn-key-rag-stack-with-verba-and-flox/ 
