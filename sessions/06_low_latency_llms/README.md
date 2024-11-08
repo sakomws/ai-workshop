@@ -1,7 +1,7 @@
 
 # Session Title: Low Latency on LLMs and Agent Workflows
 
-Welcome to the **Low Latency on LLMs and Agent Workflows** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
+Welcome to the **Low Latency on LLMs and Agent Workflows** session of the DevFest AI Workshop! This session will guide you through agentic workflows using Groq.
 
 ---
 
