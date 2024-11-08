@@ -205,7 +205,7 @@ share it with our teammates.
 Let's start a RAG stack to do some Local AI.  
 Make sure your `default` flox environment is already active -- this is gonna be cool.
 ```bash
-git clone stealthybox/verba-with-flox
+git clone https://github.com/stealthybox/verba-with-flox
 cd verba-with-flox
 ```
 Let's go
