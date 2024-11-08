@@ -67,21 +67,21 @@ Following the docs of CrewAI, use configurations to build a workflows that:
 ## Additional Resources
 
 - **Documentation:**  
-  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
+  - [Groq docs](https://console.groq.com/docs/overview)
   
 - **Further Reading:**  
-  - [List of related papers, articles, or links]
+  - NA
 
 ---
 
 ## Solutions
 
-If you need help with any part of the session, refer to the [solution file](../solutions/session_6_solution.ipynb) in the `solutions` folder.
+- NA
 
 ---
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **[Instructor’s Name]** or open an issue in the repository.
+If you have questions during the workshop, please reach out to **[Jose Menendez]** or open an issue in the repository with label 6_groq.
 
 Happy coding!
