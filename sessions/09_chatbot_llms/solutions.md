@@ -70,7 +70,7 @@ npm install wechaty @juzi/wechaty-puppet-whatsapp
 node index.js
 ```
 
-## Chanllenge 1: Random
+## Challenge 1: Random
 
 ```javascript
 import { WechatyBuilder } from 'wechaty'
@@ -122,7 +122,7 @@ async function main () {
 main()
 ```
 
-## Chanllenge 2: Count
+## Challenge 2: Count
 
 ```javascript
 import { WechatyBuilder } from 'wechaty'
