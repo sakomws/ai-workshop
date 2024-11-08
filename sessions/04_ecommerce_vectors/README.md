@@ -55,10 +55,16 @@ By the end of this session, you will have a deeper understanding of how to apply
 ## Instructions
 
 ### Step 1: Navigate to Google Colab & follow along
-If you haven't cloned the repository already, run:
-```bash
-COLAB URL TBD
-```
+
+
+- [intro](https://github.com/superlinked/superlinked)
+
+- [NLQ](https://colab.research.google.com/github/superlinked/superlinked/blob/main/notebook/feature/natural_language_querying.ipynb)
+
+- [Behavioral data](https://colab.research.google.com/github/superlinked/superlinked/blob/main/notebook/recommendations_e_commerce.ipynb)
+
+- [Image Search](https://colab.research.google.com/github/superlinked/superlinked/blob/main/notebook/image_search_e_commerce.ipynb)
+
 
 ---
 
