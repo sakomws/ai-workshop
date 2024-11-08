@@ -7,13 +7,14 @@ Welcome to the **Intro to workshop / Hackathon Building Blocks** session of the 
 
 ## Session Overview
 
-**Instructor:** [Instructor Name]
+**Instructor:** [Sako M](https://www.linkedin.com/in/sakom)
 
-**Duration:** [Duration, e.g., 30 minutes]
+**Duration:** 30 minutes
 
 **Objective:**  
-- [Objective 1: Describe what participants will learn or accomplish in this session]
-- [Objective 2: Highlight any practical applications or outcomes]
+- Set up and configure the Py API.
+- Learn to interact with different endpoints to manage dependencies.
+- Understand the process of automating dependency updates in a GitHub repository.
   
 By the end of this session, you will have a deeper understanding of [specific concepts/skills].
 
@@ -21,21 +22,35 @@ By the end of this session, you will have a deeper understanding of [specific co
 
 ## Prerequisites
 
-- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
-- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
+- Basic knowledge of Python and FastAPI.
+- A GitHub account and a personal access token (PAT).
+- Python 3.8+ installed on your machine.
 
 ---
 
 ## Agenda
 
-1. **Introduction**  
-   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+**Introduction**  
+PlatformGen - Autonomous Dependency Manager.
 
-2. **Hands-on Activity**  
-   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+🔧 Motivation: 
+- Regular infrastructure upgrades are essential for performance, security, and sustainability. 
+- Building long-term solutions, not just short-term fixes, helps ensure smooth, efficient operations.
 
-3. **Q&A and Discussion**  
-   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+⚠️ The Problem:
+- Managing dependencies becomes complex as codebases grow.
+- It's time-consuming, costly, and increases the risk of failures.
+- Scaling services and maintaining fast development cycles are major challenges.
+
+💡 How Big is the Problem?
+- Downtime can cost Fortune 1,000 companies up to $1 million per hour (IDC survey). 
+- Large enterprises might spend $60 million or more on incidents annually (IHS Research).
+
+✅ Our Solution: Progressive automation, moving from manual support to full automation maturity. 
+
+
+**Q&A and Discussion**  
+   - Please, submit the questions as issue and label relevant session: https://github.com/sakomws/ai-workshop/labels
 
 ---
 
@@ -44,55 +59,75 @@ By the end of this session, you will have a deeper understanding of [specific co
 ### Step 1: Clone the Workshop Repository
 If you haven't cloned the repository already, run:
 ```bash
-git clone https://github.com/[your-username]/devfest-ai-workshop.git
-cd devfest-ai-workshop/sessions/session_1
+git clone https://github.com/sakomw/ai-workshop.git
+cd ai-workshop/sessions/session_1
 ```
 
 ### Step 2: Set Up Environment
-- Activate your environment (if using Conda):
+- Setup secrets in code/backend/.env.local and name it .env:
+```
+GITHUB_TOKEN=x
+OPENAI_API_KEY=x
+GROQ_API_KEY=x
+```
+- Install [flox](https://flox.dev):
   ```bash
-  conda activate workshop_env
+  brew install flox
+  flox pull sakomws/01_intro_workshop
+  flox activate
   ```
-- Install any necessary dependencies:
+- Install any necessary dependencies for backend:
   ```bash
+  cd 01_intro_workshop
+  cd code/backend
   pip install -r requirements.txt
+  uvicorn main:app --reload
   ```
 
-### Step 3: Open the Jupyter Notebook
-Navigate to the Jupyter notebook for this session:
-1. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Open the file `session_1.ipynb`.
+- See the directory structure in backend:
+```
+├── cf_aiproxy.py
+├── config.py
+├── main.py
+├── models
+│   ├── __init__.py
+│   └── schemas.py
+├── requirements.txt
+├── routes
+│   ├── __init__.py
+│   └── api_routes.py
+└── services
+    ├── __init__.py
+    ├── dependency_service.py
+    └── github_service.py
+```
 
-### Step 4: Complete the Hands-on Exercise
-Follow the instructions in the notebook for each part of the exercise:
+- Install any necessary dependencies for the frontend:
+  ```bash
+  cd 01_intro_workshop
+  cd code/frontend
+  yarn install
+  yarn dev
+  ```
 
-- **Exercise 1:** [Brief description, e.g., “Load and preprocess data for building a chatbot.”]
-- **Exercise 2:** [Brief description, e.g., “Use assistant-ui to add human feedback capabilities.”]
-- **Exercise 3:** [Brief description, e.g., “Evaluate chatbot performance with human-in-the-loop inputs.”]
+### Step 3: Demo
+- Open in browser and select the repo with requirements.txt file in root folder: http://localhost:3000
 
+![demo](image.png)
 ---
 
 ## Additional Resources
-
-- **Documentation:**  
-  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
-  
-- **Further Reading:**  
-  - [List of related papers, articles, or links]
-
----
-
-## Solutions
-
-If you need help with any part of the session, refer to the [solution file](../solutions/session_1_solution.ipynb) in the `solutions` folder.
-
+- [Groq]()
+- [FastAPI]()
+- [NexJS]()
+- [Cloudflare AI Gateway]()
 ---
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **[Instructor’s Name]** or open an issue in the repository.
+If you have questions during the workshop, please reach out to **[Sako M]** or open an issue in the repository.
 
 Happy coding!
+
+
+
