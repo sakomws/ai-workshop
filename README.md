@@ -8,7 +8,7 @@
 | **11:00 AM - 11:30 AM** | [Sako M](https://www.linkedin.com/in/sakom) | [Gladly](https://www.gladly.com)           | [Intro to workshop / Hackathon Building Blocks](sessions/01_intro_workshop)       |
 | **11:30 AM - 12:00 PM** | [Simon Farshid](https://www.linkedin.com/in/simon-farshid) | [assistant-ui.com](https://assistant-ui.com) | [Human-in-the-loop Agents with assistant-ui](sessions/02_human_in_the_loop)          |
 | **12:00 PM - 1:00 PM**  |  **Lunch**                                               |
-| **1:00 PM - 1:30 PM**   | [Ron Efroni & Tom Bereknyei](https://www.linkedin.com/in/ronefroni) | [Flox](https://flox.dev)  | [Flox: Rethinking How We Build & Collab](sessions/03_flox_rethinking_dev_envs)
+| **1:00 PM - 1:30 PM**   | [Ron Efroni](https://www.linkedin.com/in/ronefroni) & [Tom Bereknyei](https://www.linkedin.com/in/thomas-bereknyei-4888432a5/) | [Flox](https://flox.dev)  | [Flox: Rethinking How We Build & Collab](sessions/03_flox_rethinking_dev_envs)
 | **1:30 PM - 2:00 PM**   | [Daniel Svonava](https://www.linkedin.com/in/svonava) | [Superlinked](https://superlinked.com)      | [Building E-commerce Recommendations with Vectors](sessions/04_ecommerce_vectors)    |
 | **2:00 PM - 2:30 PM**   | [Adam Chan](https://www.linkedin.com/in/itsajchan)  | [Weaviate](https://weaviate.io)         | [Get Chunked! Chunking Strategies for Retrieval](sessions/05_chunking_strategies)      |
 | **2:30 PM - 3:00 PM**   | [Jose Menendez](https://www.linkedin.com/in/menendezp) | [Groq](https://groq.com)             | [Low Latency on LLMs and Agent Workflows](sessions/06_low_latency_llms)             |

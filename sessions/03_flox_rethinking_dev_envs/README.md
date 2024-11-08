@@ -68,14 +68,7 @@ way to use Nix in software and infrastructure projects.
 
 ## Setup
 
-### Step 1: Clone the Workshop Repository
-If you haven't cloned the repository already, run:
-```bash
-git clone https://github.com/[your-username]/devfest-ai-workshop.git
-cd devfest-ai-workshop/sessions/session_1
-```
-
-### Step 2: Install Flox
+### Step 1: Install Flox
 We have downloadable installers for many platforms.  
 Some examples are MacOS, debian/Ubuntu systems, CentOS, NixOS, etc.
 Find an option that works for you at https://flox.dev/docs/install-flox
@@ -87,7 +80,7 @@ Installing Flox will install Nix for you.
 If you already have Nix or NixOS, there are instructions for that as well.
 
 
-### Step 3: Run `flox --help`
+### Step 2: Run `flox --help`
 Using a terminal session, run the `flox --help` command to see what sub-commands
 are available!
 
@@ -161,7 +154,8 @@ However, this is the canonical place to put the default env.
 If you skip this step, just run `flox activate -d ~` in all of your new terminals.
 
 #### manifesting teamwork
-Let's install a few more packages:
+Let's install a few more packages.  
+Notably, we are installing the `micro` text editor: 
 ```bash
 flox install git curl tree bat micro
 ```
@@ -172,7 +166,7 @@ That's because flox makes a `.flox/` folder for us with a declarative manifest.
 tree .flox
 ```
 We've been modifying our environment imperatively using "install" commands.  
-Let's edit our environment declaratively:
+Let's edit our environment declaratively using `micro`:
 ```bash
 export EDITOR="micro"
 
@@ -205,7 +199,7 @@ share it with our teammates.
 Let's start a RAG stack to do some Local AI.  
 Make sure your `default` flox environment is already active -- this is gonna be cool.
 ```bash
-git clone stealthybox/verba-with-flox
+git clone https://github.com/stealthybox/verba-with-flox
 cd verba-with-flox
 ```
 Let's go
