@@ -1,0 +1,13 @@
+weave
+superlinked
+weaviate-client
+groq
+fastapi[standard]
+python-dotenv
+uvicorn
+fitz
+llama-index-llms-openai 
+llama-index-embeddings-openai
+llama-index-embeddings-huggingface
+toml
+premai
