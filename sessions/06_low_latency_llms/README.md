@@ -7,71 +7,60 @@ Welcome to the **Low Latency on LLMs and Agent Workflows** session of the DevFes
 
 ## Session Overview
 
-**Instructor:** [Instructor Name]
+**Instructor:** [Jose Menendez](https://www.linkedin.com/in/menendezp/)
 
-**Duration:** [Duration, e.g., 30 minutes]
+**Duration:** 20min.
 
 **Objective:**  
-- [Objective 1: Describe what participants will learn or accomplish in this session]
-- [Objective 2: Highlight any practical applications or outcomes]
+- Get an agentic workflow running with low latency LLMs in minutes.
+- Orchestrate another workflow to formulate pytho code and execute it.
   
-By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+By the end of this session, you will have a deeper understanding of 
+- Groq, LPU, and Low Latency LLMs.
+- Agentic workflows.
+- How to leverage [crewAI](https://crewai.com/) to build them without the hassle.
 
 ---
 
 ## Prerequisites
 
-- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
-- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
+- Basic knowledge of LLM prompting
+- Basic knowledge of Python
+- Basic understanding of YAML
 
 ---
 
 ## Agenda
 
 1. **Introduction**  
-   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+   - Overview of Groq, LPU, and Low Latency LLMs, open source models.
 
 2. **Hands-on Activity**  
-   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+   - Create an out-of-the-box workflow with crewAI.
+   - Make small adjustments to implement a coder workflow.
 
 3. **Q&A and Discussion**  
-   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+   - Open floor for questions / ideas / discussions.
 
 ---
 
 ## Instructions
 
-### Step 1: Clone the Workshop Repository
-If you haven't cloned the repository already, run:
-```bash
-git clone https://github.com/[your-username]/devfest-ai-workshop.git
-cd devfest-ai-workshop/sessions/session_6
-```
+### Step 1: CrewAI quickstart.
+It's a true quickstart, so you can just [follow the instructions](https://docs.crewai.com/quickstart).
 
-### Step 2: Set Up Environment
-- Activate your environment (if using Conda):
-  ```bash
-  conda activate workshop_env
-  ```
-- Install any necessary dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+### Step 2: X-Max tree example.
+The examples in this folder are:
+- `researchers`: Base workflow out of the box.
+- `xmas-tree`: A modified version where a couple of agents generate a X-Max tree ASCII art.
 
-### Step 3: Open the Jupyter Notebook
-Navigate to the Jupyter notebook for this session:
-1. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Open the file `session_6.ipynb`.
 
-### Step 4: Complete the Hands-on Exercise
-Follow the instructions in the notebook for each part of the exercise:
+### Step 3: Complete the Hands-on Exercise
+Following the docs of CrewAI, use configurations to build a workflows that:
 
-- **Exercise 1:** [Brief description, e.g., “Load and preprocess data for building a chatbot.”]
-- **Exercise 2:** [Brief description, e.g., “Use assistant-ui to add human feedback capabilities.”]
-- **Exercise 3:** [Brief description, e.g., “Evaluate chatbot performance with human-in-the-loop inputs.”]
+- **Exercise 1:** A workflow that takes a URL to read the content and generate a markdown summary of the content. For this you have to implement the `Scrape Website` tool.
+- **Exercise 2:** Take it up a notch. Modify the basic researcher workflow to use web search and scraping in order to do an online investigation. 
+- **Exercise 3:** Create a custom tool, that can take an audio file, send it to Groq to transcribe it and then summarize the content.
 
 ---
 
