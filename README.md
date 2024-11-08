@@ -8,7 +8,7 @@
 | **11:00 AM - 11:30 AM** | [Sako M](https://www.linkedin.com/in/sakom) | [Gladly](https://www.gladly.com)           | [Intro to workshop / Hackathon Building Blocks](sessions/01_intro_workshop)       |
 | **11:30 AM - 12:00 PM** | [Simon Farshid](https://www.linkedin.com/in/simon-farshid) | [assistant-ui.com](https://assistant-ui.com) | [Human-in-the-loop Agents with assistant-ui](sessions/02_human_in_the_loop)          |
 | **12:00 PM - 1:00 PM**  |  **Lunch**                                               |
-| **1:00 PM - 1:30 PM**   | [Ron Efroni](https://www.linkedin.com/in/ronefroni) | [Flox](https://flox.dev)  | [Getting started with Flox](sessions/03_flox_in_action)
+| **1:00 PM - 1:30 PM**   | [Ron Efroni](https://www.linkedin.com/in/ronefroni) & [Tom Bereknyei](https://www.linkedin.com/in/thomas-bereknyei-4888432a5/) | [Flox](https://flox.dev)  | [Flox: Rethinking How We Build & Collab](sessions/03_flox_rethinking_dev_envs)
 | **1:30 PM - 2:00 PM**   | [Daniel Svonava](https://www.linkedin.com/in/svonava) | [Superlinked](https://superlinked.com)      | [Building E-commerce Recommendations with Vectors](sessions/04_ecommerce_vectors)    |
 | **2:00 PM - 2:30 PM**   | [Adam Chan](https://www.linkedin.com/in/itsajchan)  | [Weaviate](https://weaviate.io)         | [Get Chunked! Chunking Strategies for Retrieval](sessions/05_chunking_strategies)      |
 | **2:30 PM - 3:00 PM**   | [Jose Menendez](https://www.linkedin.com/in/menendezp) | [Groq](https://groq.com)             | [Low Latency on LLMs and Agent Workflows](sessions/06_low_latency_llms)             |
@@ -48,17 +48,23 @@
   - Building with assistant-ui: Step-by-step guidance on using assistant-ui to develop interactive agents.
 
 ---
-### Name: Ron Efroni
+### Name: Ron Efroni && Tom Bereknyei
 - **Company**: Flox
-- **Bio**: Ron is CEO of Flox, repeat founder, former head of Meta's Facebook Developer Infra Products teams, and current board member of the NixOS Foundation, where he supports and strengthens the NixOS community.
+- **Ron's Bio**: Ron is CEO of Flox, repeat founder, former head of Meta's Facebook Developer Infra Products teams, and current board member of the NixOS Foundation, where he supports and strengthens the NixOS community.
+- **Tom's Bio**: Worked at Google, flew jet planes in the Marine Corps, trained cyber-teams, worked with the Digital Service to bring modern software practices to the DoD, then created a contracting startup bringing AI/ML products to DoD. Throughout have found a consistent set of challenges and a set of superpowers using Nix. This led to the desire to bring these superpowers to the rest of the world; hence contributing to Nix as a maintainer and founding Flox.
 
 #### Session
-- **Title**: Getting started with Flox
-- **Description**: Nix Simplified for Enterprise: Flox brings the power of Nix to enterprise workflows, using an intuitive interface familiar to engineers with experience in tools like Homebrew, Git, and npm.
-- Adding elements similar to Docker Compose (minus the containers and Linux VM), Flox becomes a streamlined system package manager.
-Project-Centric Package Management:
-- Flox is designed as a cross-platform package manager (similar to apt, brew, yum, dnf) but is decoupled from specific machines. It’s tied instead to projects and team workflows, enabling consistency across operating systems and architectures.
-- Enhanced Catalog Service: Flox offers a catalog service that provides metadata on Nix packages (nixpkgs), like version history for NodeJS, Go, MySQL, and more, allowing for seamless installation of older software versions as needed.
+- **Title**: Flox: Rethinking How We Build & Collab
+- **Description**: In this session, we'll introduce you to [Flox](https://flox.dev).
+  Flox is an open-source (GPL2) tool for simple and powerful system dependency mangement,
+  per-project, and decoupled from your machine.  
+  Underneath, we are using [Nix](https://nixos.org) which gives us access to 
+  [over 100,000 packages](https://search.nixos.org/packages).  
+  Many of these packages are cross-platform and built natively for your machine
+  whether you are using a Macbook or a Linux server in Google Cloud.
+  Flox is designed to be simple to teach to your teammates so you can immediately
+  be productive together without taking much time to learn Nix concepts.
+  We'll start with the basics and try some Local AI development.
 
 ---
 

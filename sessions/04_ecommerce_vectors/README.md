@@ -1,87 +1,75 @@
 
-# Session Title: Building E-commerce Recommendations with Vectors
+# Make E-commerce Vector-powered
 
-Welcome to the **Building E-commerce Recommendations with Vectors** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
+Hi everybody,
+
+In this session I'll introduce you to [Superlinked](https://github.com/superlinked/superlinked) - a framework for building vector-powered systems!
+
+We will build Search, Recommendations and Analytics on top of a multi-modal e-commerce dataset.
+
+<ins>**THE CATCH:**</ins>
+In most demos like this, people just use product images and descriptions.. while in reality you have to deal with product ratings, prices, behavioral data and more. Today, we will fix that!
 
 ---
 
 ## Session Overview
 
-**Instructor:** [Instructor Name]
+**Instructor:** [Daniel Svonava](https://www.linkedin.com/in/svonava/), Founder at Superlinked, ex-ML TL in YouTube Ads
 
-**Duration:** [Duration, e.g., 30 minutes]
+**Duration:** 30 minutes (1:30PM - Track 2)
 
-**Objective:**  
-- [Objective 1: Describe what participants will learn or accomplish in this session]
-- [Objective 2: Highlight any practical applications or outcomes]
+**Objectives:**  
+- Learn how to recognize problems solvable with vector embeddings
+- Learn to work with multi-modal e-commerce data in Google Colab
+- Learn how to integrate metadata into your vector search projects (and no we don't mean 'hybrid search')
+- Sign up to Part 2 of this workshop, focused on bringing your vector-powered systems to production
   
-By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+By the end of this session, you will have a deeper understanding of how to apply vector search to a range of use-cases in e-commerce and to similar multi-modal data.
 
 ---
 
 ## Prerequisites
 
-- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
-- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
-
+- Basic knowledge of Python and ability to follow along in a Google Colab.
+- No external dependencies required (i.e. you don't need a local python environment or a vector database to get started).
 ---
 
 ## Agenda
 
-1. **Introduction**  
-   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+1. **Get the data**  
+   - Use a Google Colab notebook to analyse an e-commerce product dataset of text, images, numbers and categorical properties
 
-2. **Hands-on Activity**  
-   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+2. **Let's start building**
+   - Build a Similar Products feature that uses all the available product metadata
+   - Build a simple Recommendation system that uses **user data & behavioral events**
+   - Build a Search system 1.0 that uses the **image** and **description** data
+   - Build a Search system 2.0 that takes into account **all product metadata**
+   - Build a Search system 3.0 that adds per-user result **personalization**
 
-3. **Q&A and Discussion**  
-   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+4. **Part 2 Summary + Q&A**  
+   - Get a sneak-peak at Superlinked Cloud CLI for running vector-powered systems reliably at scale
+   - Ask your questions & connect with the speaker ([LinkedIn](https://www.linkedin.com/in/svonava/), [X](https://twitter.com/svonava)) - 👋 I mean it!
 
 ---
 
 ## Instructions
 
-### Step 1: Clone the Workshop Repository
+### Step 1: Navigate to Google Colab & follow along
 If you haven't cloned the repository already, run:
 ```bash
-git clone https://github.com/[your-username]/devfest-ai-workshop.git
-cd devfest-ai-workshop/sessions/session_4
+COLAB URL TBD
 ```
-
-### Step 2: Set Up Environment
-- Activate your environment (if using Conda):
-  ```bash
-  conda activate workshop_env
-  ```
-- Install any necessary dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-### Step 3: Open the Jupyter Notebook
-Navigate to the Jupyter notebook for this session:
-1. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Open the file `session_4.ipynb`.
-
-### Step 4: Complete the Hands-on Exercise
-Follow the instructions in the notebook for each part of the exercise:
-
-- **Exercise 1:** [Brief description, e.g., “Load and preprocess data for building a chatbot.”]
-- **Exercise 2:** [Brief description, e.g., “Use assistant-ui to add human feedback capabilities.”]
-- **Exercise 3:** [Brief description, e.g., “Evaluate chatbot performance with human-in-the-loop inputs.”]
 
 ---
 
 ## Additional Resources
 
 - **Documentation:**  
-  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
+  - [docs.superlinked.com](https://docs.superlinked.com)
   
 - **Further Reading:**  
-  - [List of related papers, articles, or links]
+  - [Vector DB Comparison - 44 VDBs compared on 40+ features](https://vdbs.superlinked.com)
+  - [VectorHub - Learn about building with vectors](https://hub.superlinked.com)
 
 ---
 
@@ -93,6 +81,6 @@ If you need help with any part of the session, refer to the [solution file](../s
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **[Instructor’s Name]** or open an issue in the repository.
+If you have questions during the workshop, please reach out to **[daniel@superlinked.com]** or open an issue in the repository.
 
 Happy coding!

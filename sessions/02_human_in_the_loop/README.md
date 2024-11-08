@@ -1,98 +1,72 @@
 
 # Session Title: Human-in-the-loop Agents with assistant-ui
 
-Welcome to the **Human-in-the-loop Agents with assistant-ui** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
+Welcome to the **Human-in-the-loop Agents with assistant-ui** session of the DevFest AI Workshop! This session will guide you through building agents that interact with humans.
 
 ---
 
 ## Session Overview
 
-**Instructor:** [Instructor Name]
+**Instructor:** Simon Farshid (assistant-ui)
 
-**Duration:** [Duration, e.g., 30 minutes]
+**Duration:** 30 minutes
 
 **Objective:**  
-- [Objective 1: Describe what participants will learn or accomplish in this session]
-- [Objective 2: Highlight any practical applications or outcomes]
+- Objective 1: Learn about the different patterns for agent <-> human interaction
+- Objective 2: Implement these patterns with assistant-ui
   
-By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+By the end of this session, you will have a deeper understanding of how to design and build interactive agents.
 
 ---
 
 ## Prerequisites
 
-- Basic knowledge of [relevant knowledge, e.g., Python, AI concepts].
-- [Any tools or packages participants should have set up before this session, e.g., "Install packages listed in requirements.txt."]
+- Basic knowledge of Javascript & React is helpful.
+- Install Node >v20
 
 ---
 
 ## Agenda
 
-1. **Introduction**  
-   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+1. **Introduction**  (10 minutes)
+   - Definition and use-cases of human-in-the-loop
+   - Patterns and implementation strategies
+   - Human outer loop
+   - Human as tool call
 
 2. **Hands-on Activity**  
-   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+   - Building a human-in-the-loop AI agent with assistant-ui
 
 3. **Q&A and Discussion**  
-   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+   - Open floor for questions on implementing real-time human feedback mechanisms in AI.
 
 ---
 
 ## Instructions
 
-### Step 1: Clone the Workshop Repository
-If you haven't cloned the repository already, run:
-```bash
-git clone https://github.com/[your-username]/devfest-ai-workshop.git
-cd devfest-ai-workshop/sessions/session_2
-```
-
-### Step 2: Set Up Environment
-- Activate your environment (if using Conda):
-  ```bash
-  conda activate workshop_env
-  ```
-- Install any necessary dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-### Step 3: Open the Jupyter Notebook
-Navigate to the Jupyter notebook for this session:
-1. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Open the file `session_2.ipynb`.
-
-### Step 4: Complete the Hands-on Exercise
-Follow the instructions in the notebook for each part of the exercise:
-
-- **Exercise 1:** [Brief description, e.g., “Load and preprocess data for building a chatbot.”]
-- **Exercise 2:** [Brief description, e.g., “Use assistant-ui to add human feedback capabilities.”]
-- **Exercise 3:** [Brief description, e.g., “Evaluate chatbot performance with human-in-the-loop inputs.”]
+https://www.assistant-ui.com/docs/runtimes/langgraph/tutorial/introduction
 
 ---
 
 ## Additional Resources
 
 - **Documentation:**  
-  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
+  - [`assistant-ui` documentation](https://docs.assistant-ui.com/)
   
 - **Further Reading:**  
-  - [List of related papers, articles, or links]
+  - (Stockbroker Final Result)[https://assistant-ui-stockbroker.vercel.app/]
+  - (Presentation Slides)[https://docs.google.com/presentation/d/1iqZ9rJrIJmGw5I0WDLV6seTHHDajsc6A1po88FLVugQ/edit?usp=sharing]
 
 ---
 
 ## Solutions
 
-If you need help with any part of the session, refer to the [solution file](../solutions/session_2_solution.ipynb) in the `solutions` folder.
+If you need help with any part of the session, refer to the [solution repository](https://github.com/Yonom/assistant-ui-stockbroker) in the `frontend` folder.
 
 ---
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **[Instructor’s Name]** or open an issue in the repository.
+If you have questions during the workshop, please reach out to **Simon Farshid** or open an issue in the repository.
 
 Happy coding!
