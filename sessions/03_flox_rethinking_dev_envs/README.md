@@ -213,7 +213,7 @@ Let's go
 flox activate --start-services
   # the shorter flag is -s
 ```
-#### layer 🥞
+#### layers 🥞
 Notice what just happenned in your prompt.  
 Both the `verba-with-flox` environment and your `default` are active.  
 We are layering! You can do with with as many environments as you want.  
@@ -330,7 +330,7 @@ For instance, say you want to start hacking on a postgres database.
 You could make a new folder:
 ```bash
 cd ~
-mkdir pg-reflex
+mkdir pg-hack
 ```
 And then just pull a sample env:
 ```bash
