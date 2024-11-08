@@ -98,6 +98,9 @@ git checkout csgo
 python src/play.py
 ```
 
+If this doesn't work, you can also play CSGO with Diamond on FAL: 
+
+[Play CSGO with Diamond on FAL](https://fal.ai/demos/csgo)
 
 
 

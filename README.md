@@ -13,7 +13,7 @@
 | **2:00 PM - 2:30 PM**   | [Adam Chan](https://www.linkedin.com/in/itsajchan)  | [Weaviate](https://weaviate.io)         | [Get Chunked! Chunking Strategies for Retrieval](sessions/05_chunking_strategies)      |
 | **2:30 PM - 3:00 PM**   | [Jose Menendez](https://www.linkedin.com/in/menendezp) | [Groq](https://groq.com)             | [Low Latency on LLMs and Agent Workflows](sessions/06_low_latency_llms)             |
 | **3:00 PM - 3:30 PM**   | [Sam Stowers](https://www.linkedin.com/in/samuelstowers) | [Weights & Biases](https://wandb.ai)              | [Production-Ready GenAI Apps with Tracing & Evaluations](sessions/07_production_genai) |
-| **3:30 PM - 4:00 PM**   | [Luke Hollis](https://www.linkedin.com/in/luke-hollis) | [Mused](https://mused.com)            | [Generating Interactive Environments for Synthetic Training Data](sessions/08_interactive_envs) |
+| **3:30 PM - 4:00 PM**   | [Luke Hollis](https://www.linkedin.com/in/luke-hollis) | [Mused](https://mused.com)            | [Generative Interactive Environments: World Models and Learning from GDM Genie](sessions/08_interactive_envs) |
 | **4:00 PM - 4:30 PM**   | [Huan Li](https://www.linkedin.com/in/huan42) | [Chatie](https://chatie.io)          | [Harnessing LLMs for Chatbot Development](sessions/09_chatbot_llms)             |
 | **4:30 PM - 5:00 PM**   |  **Wrap-up and Networking**                              |
 
@@ -114,14 +114,14 @@ Project-Centric Package Management:
 ---
 
 ### Name: Luke Hollis
-- **Bio**: Luke is a 2x founder specializing in 3D graphics, building generative environments for training datasets and educational simulations that feature 3D captures.
+- **Bio**: Luke is a 2x founder specializing in 3D graphics, currently working on building generative environments and simulations that feature 3D captures.
 
 #### Session
-- **Title**: Generating Interactive Environments for Synthetic Training Data with Google Cloud and Diffusion World Models
-- **Description**: Inspired by "Genie: Generative Interactive Environments" (Bruce et al., 2024), this hands-on workshop introduces you to generating interactive environments to build simulations or synthetic training data using diffusion world models.
-  - Topic 1
-  - Topic 2
-  - Topic 3
+- **Title**: Generative Interactive Environments: Diffusion World Models and Learning from GDM Genie
+- **Description**: Inspired by "Genie: Generative Interactive Environments" (Bruce et al., 2024), this session will give an overview of world models and review three recent papers to discuss implementation in gaming and training generalist agents.
+  - World Models
+  - Gaming
+  - Realtime Interactive Video Generation
 
 ---
 
