@@ -186,6 +186,9 @@ Follow thee steps to run the ding-dong bot.
 1. You need to use WhatsApp to scan the QR code.
 1. After scanning the QR code, the WhatsApp will ask you for confirming to login via QR Code, and you need to scan the QR Code again after the confirmation.
 
+Troubleshoot: If the login QR Code does not show up after 60 seconds, try to clean the cache for login data by removing the `./wwebjs_auth/` and `./wwebjs_cache/` directory. (You can run `rm -rf ./wwebjs_auth ./wwebjs_cache` in the terminal).
+
+```bash
 ### Step 6: Test the ding-dong bot
 
 Scan the below QR code using your WhatsApp on the phone, to join the `Wechaty Developers' Home` group, and test the bot by sending a message `ding` in the group. The bot should reply with `dong`.
