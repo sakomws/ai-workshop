@@ -18,6 +18,8 @@ Welcome to the **Harnessing LLMs for Chatbot Development** session of the DevFes
 
 By the end of this session, you will have a deeper understanding of code generation with LLM.
 
+**Sildes:** [Harnessing LLMs for Chatbot Development](https://docs.google.com/presentation/d/1psgspkznmQCGoqYrYGZ7602xkcwsfPYC4niNX44mFSc/edit?usp=sharing)
+
 ---
 
 ## Prerequisites
