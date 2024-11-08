@@ -140,7 +140,7 @@ The LLM should reply with a response that follows the guidelines in the prompt.
 
 And you are ready to ask any questions about code generation using Wechaty SDK!
 
-> [Solution for Step 1](solutions#step-1-prompting)
+> [Solution for Step 1](solutions.md#step-1-prompting)
 
 ### Step 2: Ask for building a ding-dong bot
 
@@ -152,7 +152,7 @@ Write a ding/dong bot using JavaScript
 
 The LLM should reply with a response that contains the code for a ding-dong bot.
 
-> [Solution for Step 2](solutions#step-2-coding)
+> [Solution for Step 2](solutions.md#step-2-coding)
 
 ### Step 3: Install Node.js
 
@@ -164,7 +164,7 @@ How do I install the latest version of Node.js?
 
 The LLM should reply with a response that contains the code for installing the latest version of Node.js.
 
-> [Solution for Step 3](solutions#step-3-installing)
+> [Solution for Step 3](solutions.md#step-3-installing)
 
 ### Step 4: Run the ding-dong bot
 
@@ -178,7 +178,7 @@ The LLM should reply with a response that contains the steps to run the ding-don
 
 Follow thee steps to run the ding-dong bot.
 
-> [Solution for Step 4](solutions#step-4-running)
+> [Solution for Step 4](solutions.md#step-4-running)
 
 ### Step 5: Scan the QR code to login
 
@@ -186,13 +186,13 @@ Follow thee steps to run the ding-dong bot.
 1. You need to use WhatsApp to scan the QR code.
 1. After scanning the QR code, the WhatsApp will ask you for confirming to login via QR Code, and you need to scan the QR Code again after the confirmation.
 
-> [Solution for Step 5](solutions#step-5-login)
+> [Solution for Step 5](solutions.md#step-5-login)
 
 ### Step 6: Test the ding-dong bot
 
 Scan the below QR code using your WhatsApp on the phone, to join the `Wechaty Developers' Home` group, and test the bot by sending a message `ding` in the group. The bot should reply with `dong`.
 
-![Wechaty Developers' Home](./assets/wechaty-developers-home-whatsapp-qr-code.png)
+![Wechaty Developers' Home](./wechaty-developers-home-whatsapp-qr-code.webp)
 
 Tips:
 
@@ -234,25 +234,20 @@ Here's some ideas for your reference:
 
 ## Additional Resources
 
-- **Wechaty:** The Conversational RPA SDK for Chatbot Makers
-  - [Wechaty](https://github.com/wechaty/wechaty)
-  
-- **Discord:** Wechaty Community & Contact Support
-  - [Discord](https://discord.gg/7q8NBZbQzt)
-
-- **Chatie:** Huan's next generation conversational AI platform
-  - [Chatie](https://chatie.io)
+- **Wechaty:** The Conversational RPA SDK for Chatbot Makers <https://github.com/wechaty/wechaty>
+- **Discord:** Wechaty Community & Contact Support <https://discord.gg/7q8NBZbQzt>
+- **Chatie:** Huan's next generation conversational AI platform <https://chatie.io>
 
 ---
 
 ## Solutions
 
-If you need help with any part of the session, refer to the [Solutions](./solutions.md) file.
+If you need help with any part of the session, refer to the [Solutions](solutions.md) file.
 
 ---
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **[Huan]** (Discord: @huan2022)or open an issue in the repository.
+If you have questions during the workshop, please reach out to **Huan** (Discord: @huan2022) or open an issue in the repository.
 
 Happy coding!
