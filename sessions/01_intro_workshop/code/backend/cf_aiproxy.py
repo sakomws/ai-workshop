@@ -1,7 +1,6 @@
 import requests
 import json
 import weave
-import config
 
 # Initialise the weave project
 weave.init('ai-workshop')
