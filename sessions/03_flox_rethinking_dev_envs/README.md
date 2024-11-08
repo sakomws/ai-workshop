@@ -1,5 +1,5 @@
 
-# Flox: Rethinking How We Build and Collab
+# Flox: Rethinking How We Build & Collab
 
 Hi friends!  
 In this session, we'll introduce you to [Flox](https://flox.dev).
