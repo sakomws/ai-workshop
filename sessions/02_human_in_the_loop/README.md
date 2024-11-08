@@ -1,21 +1,21 @@
 
 # Session Title: Human-in-the-loop Agents with assistant-ui
 
-Welcome to the **Human-in-the-loop Agents with assistant-ui** session of the DevFest AI Workshop! This session will guide you through [brief session purpose or topic].
+Welcome to the **Human-in-the-loop Agents with assistant-ui** session of the DevFest AI Workshop! This session will guide you through building agents that interact with humans.
 
 ---
 
 ## Session Overview
 
-**Instructor:** [Instructor Name]
+**Instructor:** Simon Farshid (assistant-ui)
 
-**Duration:** [Duration, e.g., 30 minutes]
+**Duration:** 30 minutes
 
 **Objective:**  
-- [Objective 1: Describe what participants will learn or accomplish in this session]
-- [Objective 2: Highlight any practical applications or outcomes]
+- Objective 1: Learn about the different patterns for agent <-> human interaction
+- Objective 2: Implement these patterns with assistant-ui
   
-By the end of this session, you will have a deeper understanding of [specific concepts/skills].
+By the end of this session, you will have a deeper understanding of how to build 
 
 ---
 
@@ -28,14 +28,17 @@ By the end of this session, you will have a deeper understanding of [specific co
 
 ## Agenda
 
-1. **Introduction**  
-   - [Brief description of the introduction phase, e.g., "Overview of human-in-the-loop concepts."]
+1. **Introduction**  (10 minutes)
+   - Use-cases for Human in the loop
+   - 
+   - Human Input as Tool Call
+   - Generative UI
 
 2. **Hands-on Activity**  
-   - [Brief outline of the hands-on activity, e.g., "Building an AI agent with assistant-ui to integrate human feedback."]
+   - Building a human in the loop AI agent with assistant-ui
 
 3. **Q&A and Discussion**  
-   - [Description, e.g., "Open floor for questions on implementing real-time human feedback mechanisms in AI."]
+   -Open floor for questions on implementing real-time human feedback mechanisms in AI.
 
 ---
 
@@ -45,7 +48,7 @@ By the end of this session, you will have a deeper understanding of [specific co
 If you haven't cloned the repository already, run:
 ```bash
 git clone https://github.com/[your-username]/devfest-ai-workshop.git
-cd devfest-ai-workshop/sessions/session_2
+cd devfest-ai-workshop/sessions/02_human_in_the_loop
 ```
 
 ### Step 2: Set Up Environment
@@ -78,10 +81,10 @@ Follow the instructions in the notebook for each part of the exercise:
 ## Additional Resources
 
 - **Documentation:**  
-  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://link-to-docs.com)
+  - [Link to relevant documentation, e.g., `assistant-ui` documentation](https://docs.assistant-ui.com/)
   
 - **Further Reading:**  
-  - [List of related papers, articles, or links]
+  - (Stockbroker Example)[https://github.com/Yonom/assistant-ui-stockbroker]
 
 ---
 
