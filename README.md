@@ -22,9 +22,9 @@
 
 # Sessions
 
-### Name: Sako M
+### Name: [Sako M](https://linkedin.com/in/sakom)
 - **Company**: Gladly
-- **Bio**: Sako attended 40+ hackathons in just 9 months, will be setting the stage by diving into Hackathon Building Blocks and showing how to set yourself up for hackathon success! From ideation to execution, learn the strategies that make ideas fly! 
+- **Bio**: Sako attended 45+ hackathons in just 9 months, will be setting the stage by diving into Hackathon Building Blocks and showing how to set yourself up for hackathon success! From ideation to execution, learn the strategies that make ideas fly! 
 
 #### Session
 - **Title**: Intro to workshop / Building blocks for hackathons
