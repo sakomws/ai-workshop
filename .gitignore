@@ -130,7 +130,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+**.flox
 # Spyder project settings
 .spyderproject
 .spyproject
