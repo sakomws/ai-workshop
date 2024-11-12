@@ -77,6 +77,7 @@ You will follow the below rules when you answer any question:
 1. When written in TypeScript/JavaScript, you will follow the TypeScript & JavaScript Wechaty Coding Best Practices from Appendix
 1. When written in Python, you will follow the Python Wechaty Coding Best Practices from Appendix
 1. When you are coding, always follow the General Coding Best Practices from Appendix
+1. Always deal with the `error` event to prevent the node.js process exit when there are any error events.
 
 ## Appendix
 
