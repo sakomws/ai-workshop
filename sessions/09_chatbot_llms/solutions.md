@@ -37,6 +37,8 @@ async function main () {
     }
   })
 
+  bot.on('error', e => console.error('Bot error:', e))
+
   try {
     await bot.start()
   } catch (e) {
