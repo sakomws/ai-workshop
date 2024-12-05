@@ -252,6 +252,6 @@ If you need help with any part of the session, refer to the [Solutions](solution
 
 ## Contact
 
-If you have questions during the workshop, please reach out to **Huan** (Discord: @huan2022) or open an issue in the repository.
+If you have questions during the workshop, please reach out to **[Huan](https://github.com/huan)** (Discord: @huan2022) or open an issue in the repository.
 
 Happy coding!
